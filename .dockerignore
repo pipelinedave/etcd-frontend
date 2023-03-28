@@ -1,0 +1,21 @@
+# Node.js
+node_modules
+npm-debug.log
+yarn-error.log
+*.tsbuildinfo
+
+# Build
+dist/
+build/
+out/
+
+# Editor Files
+.vscode/
+.idea/
+
+# Other Files
+.dockerignore
+.gitignore
+.env*
+.env.local*
+.env.*.local*
