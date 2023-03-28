@@ -1,4 +1,5 @@
 # Etcd Frontend
+[![Docker Build and Push](https://github.com/pipelinedave/etcd-frontend/actions/workflows/docker-build.yml/badge.svg?event=push)](https://github.com/pipelinedave/etcd-frontend/actions/workflows/docker-build.yml)
 ## Overview
 Etcd is a distributed key-value store that is often used for service discovery, configuration management, and coordination in distributed systems. It provides a simple, reliable way to store and retrieve data across a cluster of machines.
 
